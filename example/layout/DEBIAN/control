@@ -1,0 +1,10 @@
+Package: com.mitchtreece.herokitexample
+Name: HeroKitExample
+Depends: mobilesubstrate, com.mitchtreece.libherokit
+Priority: optional
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Simple example for libherokit
+Maintainer: Mitch Treece <mitchtreece@me.com>
+Author: Mitch Treece <mitchtreece@me.com>
+Section: Tweaks
